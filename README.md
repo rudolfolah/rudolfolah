@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an experienced engineering leader with a strong background in software development and team management. Throughout my career, I've worked on diverse projects, ranging from frontend and backend development to implementing analytics tools and monitoring systems. I'm passionate about fostering collaboration and growth among engineering teams while aligning initiatives with company objectives.
+
 ### Video Courses
 - LinkedIn Learning
   - [Security and Django (2020)](https://www.linkedin.com/learning/securing-django-applications/security-and-django)
