@@ -14,8 +14,8 @@ I'm an experienced engineering leader with a strong background in software devel
 
 ### Published Articles
 - [8 More Ruby on Rails Interview Questions (2020)](https://www.codementor.io/blog/ruby-on-rails-interview-8snhikclb9)
-- [7 Key Engineering Manager Interview Questions (2020)](https://arc.dev/blog/engineering-manager-interview-questions-7waho7m0oi)
-- [10+ Senior Software Engineer Interview Questions (2019)](https://www.codementor.io/blog/senior-developer-interview-questions-6on7cl3reg)
+- [7 Key Engineering Manager Interview Questions (2020)](https://arc.dev/developer-blog/engineering-manager-interview-questions/)
+- [10+ Senior Software Engineer Interview Questions (2019)](https://arc.dev/employer-blog/senior-software-engineer-interview-questions/)
 - [Build Your Own Node.js Search Engine for Github Wikis (2017)](https://www.codementor.io/@rudolfolah/node-js-search-engine-github-s2gh0sfl8)
 - [Elm vs React, development and performance (2017)](https://www.codementor.io/@rudolfolah/elm-vs-react-development-performance-compare-603dyh83m)
 - [Build an Instagram clone in Elm, part 1 (2016)](https://www.codementor.io/@rudolfolah/build-instagram-clone-in-elm-instaelm-part-1-krkwt54gl)
