@@ -43,5 +43,3 @@ I'm an experienced engineering leader with a strong background in software devel
 - [Twitter](https://twitter.com/rudolf_olah)
 - [GitHub](https://github.com/rudolfolah)
 - [Website](https://rudolfolah.com/)
-
-![Rudolf Olah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudolfolah&show_icons=true&count_private=true&include_all_commits=true)
