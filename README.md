@@ -31,6 +31,7 @@ I'm an experienced engineering leader with a strong background in software devel
 - [Node.js Meetup Toronto 2015, "Node.js as an API shim"](https://www.youtube.com/watch?v=qExA0jLc7zA)
 
 ### Blog Posts
+- [Creating a Data Pipeline for Analytics, AI/ML, ChatGPT](https://rudolfolah.com/data-pipeline-product-analytics-ai-ml-chatgpt/)
 - [Unlocking the Power of Product Analytics: Metrics and Platforms Explained](https://www.modernlearner.org/product-analytics-introduction/)
 - [Smart Contracts for CosmWasm, Cosmos with Rust](https://rudolfolah.com/smart-contracts-for-cosmos-blockchain/)
 - [Machine Learning Basics with Ludwig](https://rudolfolah.com/machine-learning-basics-with-ludwig/)
