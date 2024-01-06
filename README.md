@@ -31,14 +31,14 @@ I'm an experienced engineering leader with a strong background in software devel
 - [Node.js Meetup Toronto 2015, "Node.js as an API shim"](https://www.youtube.com/watch?v=qExA0jLc7zA)
 
 ### Blog Posts
-- [Webpack and Frontend Build-Time Performance Engineering for React, Profiling Node.js](https://rudolfolah.com/profiling-webpack-node-react/)
-- [Creating a Data Pipeline for Analytics, AI/ML, ChatGPT](https://rudolfolah.com/data-pipeline-product-analytics-ai-ml-chatgpt/)
-- [Unlocking the Power of Product Analytics: Metrics and Platforms Explained](https://www.modernlearner.org/product-analytics-introduction/)
-- [Smart Contracts for CosmWasm, Cosmos with Rust](https://rudolfolah.com/smart-contracts-for-cosmos-blockchain/)
-- [Machine Learning Basics with Ludwig](https://rudolfolah.com/machine-learning-basics-with-ludwig/)
-- [Speeding up Ruby on Rails Tests and RSpec](https://rudolfolah.com/speed-up-ruby-rails-rspec-tests/)
-- [Cause and Effect Diagrams](https://rudolfolah.com/cause-and-effect-diagrams/)
-- [UI Frameworks for Angular](https://www.modernlearner.org/ui-frameworks-for-angular/)
+- [Webpack and Frontend Build-Time Performance Engineering for React, Profiling Node.js (2023)](https://rudolfolah.com/profiling-webpack-node-react/)
+- [Creating a Data Pipeline for Analytics, AI/ML, ChatGPT (2023)](https://rudolfolah.com/data-pipeline-product-analytics-ai-ml-chatgpt/)
+- [Unlocking the Power of Product Analytics: Metrics and Platforms Explained (2022)](https://www.modernlearner.org/product-analytics-introduction/)
+- [Smart Contracts for CosmWasm, Cosmos with Rust (2022)](https://rudolfolah.com/smart-contracts-for-cosmos-blockchain/)
+- [Machine Learning Basics with Ludwig (2021)](https://rudolfolah.com/machine-learning-basics-with-ludwig/)
+- [UI Frameworks for Angular (2020)](https://www.modernlearner.org/ui-frameworks-for-angular/)
+- [Speeding up Ruby on Rails Tests and RSpec (2018)](https://rudolfolah.com/speed-up-ruby-rails-rspec-tests/)
+- [Cause and Effect Diagrams (2016)](https://rudolfolah.com/cause-and-effect-diagrams/)
 
 ## How to Reach Me
 - [LinkedIn](https://ca.linkedin.com/in/rolah)
