@@ -45,7 +45,7 @@ I'm an experienced software engineer with a strong background in leadership. Thr
 - [Cause and Effect Diagrams (2016)](https://rudolfolah.com/cause-and-effect-diagrams/)
 
 ## How to Reach Me
-- [LinkedIn](https://ca.linkedin.com/in/rolah)
+- [LinkedIn](https://www.linkedin.com/in/rolah/)
 - [Twitter](https://twitter.com/rudolf_olah)
 - [GitHub](https://github.com/rudolfolah)
 - [Website](https://rudolfolah.com/)
