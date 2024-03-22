@@ -30,6 +30,10 @@ I'm an experienced engineering leader with a strong background in software devel
 - [PyCon Canada 2017, "Python as a Philosophy"](https://www.youtube.com/watch?v=zkjYOKLvZko)
 - [Node.js Meetup Toronto 2015, "Node.js as an API shim"](https://www.youtube.com/watch?v=qExA0jLc7zA)
 
+### Hackathons
+- Cue-Sheet-Palooza 2022, Python machine learning and Dolby.io API - 1st prize
+- Spacecamp 2021, Rust smart contracts - 2nd prize
+
 ### Blog Posts
 - [Webpack and Frontend Build-Time Performance Engineering for React, Profiling Node.js (2023)](https://rudolfolah.com/profiling-webpack-node-react/)
 - [Creating a Data Pipeline for Analytics, AI/ML, ChatGPT (2023)](https://rudolfolah.com/data-pipeline-product-analytics-ai-ml-chatgpt/)
